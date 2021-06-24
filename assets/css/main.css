@@ -3273,7 +3273,7 @@ input, select, textarea {
 			.spotlight .image img {
 				display: block;
 				border-radius: 100%;
-				width: 13em;
+				width: 17em;
 			}
 
 		@media screen and (max-width: 980px) {
